@@ -1,0 +1,5 @@
+id
+nazwa
+min dmg
+max dmg
+wartość

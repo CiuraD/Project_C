@@ -1,0 +1,4 @@
+id
+nazwa
+zwracane hp
+wartosc

@@ -1,0 +1,5 @@
+id
+nazwa
+lvl
+id broni
+id pancerza

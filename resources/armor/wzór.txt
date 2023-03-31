@@ -1,0 +1,4 @@
+id
+nazwa
+obrona
+wartosc
